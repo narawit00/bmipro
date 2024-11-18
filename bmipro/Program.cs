@@ -9,7 +9,7 @@
             {
                 //Console.Clear();
                 headProgram("Pisit");
-                //Input รับข้อมูล น้ำหนักและส่วนสูง
+                //Input รับข้อมูล น้ำหนักและส่วนสูง 1111111
                 double weight = 0.0;
                 double height = 0.0;
                 Console.Write("input your weight(kg) :");
